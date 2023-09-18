@@ -1,4 +1,4 @@
 def main(event) -> None:
-    print("Hello world")
+    print("Hello world {}".format(event))
 
 
